@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="adbf8c88-5fe8-4c79-ae47-8b6f94ecf61c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="mybatis-config" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="mybatis-mapper" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/maven/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1f7mZQkwqnrmpF58CRN4DoZgLBY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\source\SSM-reiview\target\classes" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Test.selectStudentByNameAndAgeUseDaoAndParam">
+    <configuration name="SelectStudentAllTest.SelectStudentAllTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SSM-reiview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cheng.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cheng.test" />
+      <option name="MAIN_CLASS_NAME" value="com.cheng.test.SelectStudentAllTest" />
+      <option name="METHOD_NAME" value="SelectStudentAllTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test.selectStudentByAge" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SSM-reiview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cheng.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cheng.test" />
+      <option name="MAIN_CLASS_NAME" value="com.cheng.test.Test" />
+      <option name="METHOD_NAME" value="selectStudentByAge" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test.selectStudentByNameAndAge" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SSM-reiview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cheng.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cheng.test" />
+      <option name="MAIN_CLASS_NAME" value="com.cheng.test.Test" />
+      <option name="METHOD_NAME" value="selectStudentByNameAndAge" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test.selectStudentByNameAndAgeUseDao" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SSM-reiview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cheng.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cheng.test" />
+      <option name="MAIN_CLASS_NAME" value="com.cheng.test.Test" />
+      <option name="METHOD_NAME" value="selectStudentByNameAndAgeUseDao" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test.selectStudentByNameAndAgeUseDaoAndParam" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SSM-reiview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cheng.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cheng.test" />
+      <option name="MAIN_CLASS_NAME" value="com.cheng.test.Test" />
+      <option name="METHOD_NAME" value="selectStudentByNameAndAgeUseDaoAndParam" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Test.selectStudentByNameAndAgeUseDaoAndParam" />
+        <item itemvalue="JUnit.Test.selectStudentByNameAndAgeUseDao" />
+        <item itemvalue="JUnit.Test.selectStudentByNameAndAge" />
+        <item itemvalue="JUnit.SelectStudentAllTest.SelectStudentAllTest" />
+        <item itemvalue="JUnit.Test.selectStudentByAge" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="adbf8c88-5fe8-4c79-ae47-8b6f94ecf61c" name="Default Changelist" comment="" />
+      <created>1595577559416</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595577559416</updated>
+      <workItem from="1595577562875" duration="5035000" />
+      <workItem from="1595589423538" duration="3783000" />
+      <workItem from="1595652296030" duration="3347000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="91" key="#Project_Structure" timestamp="1595577957007">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="91" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1595577957007" />
+    <state x="574" y="117" key="#com.intellij.ide.util.MemberChooser" timestamp="1595578365258">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="574" y="117" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1595578365258" />
+    <state x="556" y="347" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath" timestamp="1595578678286">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="556" y="347" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath/0.0.1536.864@0.0.1536.864" timestamp="1595578678286" />
+    <state x="549" y="174" key="FileChooserDialogImpl" timestamp="1595662618748">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="174" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1595662618748" />
+    <state width="1493" height="199" key="GridCell.Tab.0.bottom" timestamp="1595653547050">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="199" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1595653547050" />
+    <state width="1493" height="199" key="GridCell.Tab.0.center" timestamp="1595653547049">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="199" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1595653547049" />
+    <state width="1493" height="199" key="GridCell.Tab.0.left" timestamp="1595653547046">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="199" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1595653547046" />
+    <state width="1493" height="199" key="GridCell.Tab.0.right" timestamp="1595653547049">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="199" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1595653547049" />
+    <state x="349" y="167" key="IDE.errors.dialog" timestamp="1595577583677">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="349" y="167" key="IDE.errors.dialog/0.0.1536.864@0.0.1536.864" timestamp="1595577583677" />
+    <state x="270" y="15" key="SettingsEditor" timestamp="1595662474984">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="270" y="15" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1595662474984" />
+  </component>
+</project>

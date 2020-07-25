@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.cheng.dao.StudentDao">
+    <select id="selectStudentAll" resultType="com.cheng.domain.Student">
+        select id,name,age from student
+    </select>
+    <update id="updateStudent">
+        update student set age = #{age} where id = #{id}
+    </update>
+    <delete id="deleteStudent">
+        delete from student where id = #{id}
+    </delete>
+    <insert id="addStudent">
+        insert into student(id,name,age) values(#{id}, #{name}, #{age})
+    </insert>
+    <select id="selectStudentByAge" resultType="com.cheng.domain.Student">
+        select id, name from student where age = #{age}
+    </select>
+    <select id="selectStudentByNameAndAge" resultType="com.cheng.domain.Student">
+        select id from student where name = #{name,mode=IN,javaType=string} and age = #{age,mode=IN,javaType=int}
+    </select>
+    <select id="selectStudentByNameAndAgeUseDao" resultType="com.cheng.domain.Student">
+        select id from student where name = #{name,mode=IN,javaType=string} and age = #{age,mode=IN,javaType=int}
+    </select>
+    <select id="selectStudentByNameAndAgeUseDaoAndparam" resultType="com.cheng.domain.Student">
+        select id from student where name = #{name,mode=IN,javaType=string} and age = #{age,mode=IN,javaType=int}
+    </select>
+
+
+</mapper>

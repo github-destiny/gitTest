@@ -1,0 +1,7 @@
+com\cheng\test\Test.class
+com\cheng\dao\StudentDao.class
+com\cheng\util\MybatisUtil.class
+com\cheng\test\UpdateStudentTest.class
+com\cheng\domain\Student.class
+com\cheng\service\StudentService.class
+com\cheng\test\SelectStudentAllTest.class
